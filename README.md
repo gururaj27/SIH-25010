@@ -12,7 +12,6 @@ Farmers will be able to interact naturally with the bot through multiple input m
 The advisory system will be context-aware, tailoring responses to each farmer’s location, crop history, soil condition, and real-time weather data. For example, before recommending fertilizer, the bot can cross-reference the farmer’s soil health data, preventing overuse of chemicals and reducing costs. Integration with weather APIs ensures that the bot can push early warnings about rainfall, droughts, or pest outbreaks, allowing farmers to take preventive measures rather than reacting too late. Additionally, by linking with market price databases (like eNAM and local mandis), the bot can help farmers decide when and where to sell their produce for maximum profit.
 
 The system will be multilingual and voice-enabled, ensuring accessibility for farmers with limited literacy. Regional dialects will be supported through NLP (Natural Language Processing) models trained on local languages. The interface will be designed to deliver short, clear, and practical advice rather than technical jargon, making the solution highly farmer-friendly.
-![WhatsApp Image 2025-09-24 at 10 07 00 AM](https://github.com/user-attachments/assets/8b66c3a8-a0ce-4a39-922b-0708c6b3f8b6)
 
 
 ## Problem Creater's Organization
