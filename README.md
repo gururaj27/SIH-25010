@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-09-24 at 10 07 00 AM](https://github.com/user-attachments/assets/5ccea4a7-d0ad-4939-a6eb-914713447137)# Smart India Hackathon Workshop
+# Smart India Hackathon Workshop
 # Date:24/09/2025
 ## Register Number:25012813
 ## Name:S.GURURAJ
